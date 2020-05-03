@@ -1,7 +1,7 @@
 
 
 ## ReadMe Generator Awesomeness
-![Dannie Digital](https://github.com/Dannie Digital.png?size=150)<br />
+![Dannie Digital](https://github.com/Dannie Digital.png?size=150)<br/>
 !(https://img.shields.io/github/followers/Dannie Digital?label=Followers&style=social) !(https://img.shields.io/badge/html-90%25-green)  !(https://img.shields.io/badge/css-80%25-green) !(https://img.shields.io/badge/javascript-40%25-orange) !(https://img.shields.io/badge/node.js-30%25-red)<br />
 ##### DanielleRBeaty@gmail.com
 
