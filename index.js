@@ -112,10 +112,10 @@ async function gatherInput(req, res) {
 ###### ${questions}
 ---
 ### App Functionality
-![](app.gif)
+![](images/app.gif)
 ---
 ### Special Thanks
-![](gaTechCodeBootcamp.jpg)
+![](images/gaTechCodeBootcamp.jpg)
 
                 `
 
