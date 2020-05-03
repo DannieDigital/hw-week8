@@ -83,12 +83,12 @@ async function gatherInput(req, res) {
  
 
     fileData = `
-<p align = "center">
+
 ## ${name}
 ![${githubName}](${bioImg})<br />
 !(${followGithub}) !(${html})  !(${css}) !(${javascript}) !(${nodeJS})<br />
 ##### ${email}
-</p>
+
 ---
 ### Description
 ###### ${description}
