@@ -65,6 +65,7 @@ async function gatherInput(req, res) {
 
     let name = response.name;
     let description = response.description;
+    let tableContents = repsone.tableContents;
     let install = response.install;
     let usage = response.useage;
     let license = response.license;
@@ -84,18 +85,20 @@ async function gatherInput(req, res) {
 
     fileData = `
 
-    ## ${name}
-    ![${githubName}](${bioImg})<br />
-    !(${follow})<br />
-    #### ${email}
-
+## ${name}
+![${githubName}](${bioImg})<br />
+!(${followGithub}) !(${html})  !(${css}) !(${javascript}) !(${nodeJS})<br />
+##### ${email}
 ---
 ### Description
 ###### ${description}
 ---
+### Tables of Contents
+###### ${tableContents}
+---
 ### How to Install 
 ###### ${install}
-
+---
 ### How to Use
 ###### ${usage}
 ---
@@ -108,7 +111,7 @@ async function gatherInput(req, res) {
 ### Tests
 ###### ${test}
 ---
-### FAQ / Additional Readings
+### Any Questions?
 ###### ${questions}
 ---
 ### App Functionality
