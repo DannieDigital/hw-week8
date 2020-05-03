@@ -40,5 +40,4 @@
 ---
 ### Special Thanks
 ![](images/gaTechCodeBootcamp.jpg)
-
                 
