@@ -32,7 +32,7 @@
 ###### Yes, Danielle Beaty
 ---
 ### Tests
-###### I have not created any test at this time.
+###### Run npm test in CLI
 ---
 ### Any Questions?
 ###### No
